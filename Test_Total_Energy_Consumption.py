@@ -1,5 +1,5 @@
 import unittest
-from energy_consumption_chart import EnergyConsumptionChart
+from Energy_Consumption_Chart import EnergyConsumptionChart
 
 class TestEnergyConsumptionChart(unittest.TestCase):
     def test_total_values(self):
